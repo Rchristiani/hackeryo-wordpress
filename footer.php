@@ -2,9 +2,9 @@
 	<div id="footer-wrapper">
 		<footer id="footer" class="container">
 			<div class="row">
-				<div class="12u">
+				<div class="foot-class">
 					<div id="copyright">
-						&copy; Untitled. All rights reserved | Images: <a href="http://fotogrph.com/">fotogrph</a> | Design: <a href="http://html5up.net/">HTML5 UP</a>
+						&copy; Untitled. Hey Images: <a href="http://fotogrph.com/">fotogrph</a> | Cool design: <a href="http://html5up.net/">HTML5 UP</a>
 					</div>
 				</div>
 			</div>
