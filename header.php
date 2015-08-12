@@ -28,8 +28,8 @@
               <div class="inner">
 
                 <!-- Logo -->
-                  <h1><a href="#" id="logo">ZeroFour</a></h1>
-
+                  <h1><a href="#" id="logo">HackerYo</a></h1>
+                  <h2>Neat site</h2>
                 <!-- Nav -->
                  <?php wp_nav_menu(array(
                     'theme_location' => 'primary',
