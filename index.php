@@ -8,7 +8,6 @@
 				<div class="row">
 					<div class="8u">
 						<div id="content skel-cell-important">
-
 							<!-- Content -->
 								<?php  
 								if(have_posts()) {
