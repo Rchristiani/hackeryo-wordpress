@@ -5,7 +5,7 @@
 	<div class="main-wrapper-style2">
 		<div class="inner">
 			<div class="container">
-				<div class="row">
+				<div class="row cool-class">
 					<div class="8u">
 						<div id="content skel-cell-important">
 							<!-- Content -->
